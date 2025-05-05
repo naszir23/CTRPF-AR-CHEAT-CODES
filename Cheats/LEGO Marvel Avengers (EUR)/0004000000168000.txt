@@ -2,3 +2,5 @@
 
 [Max Studs]
 00575078 FFFFFFFF
+(unlock characters)
+235470 HHHHHHHH
